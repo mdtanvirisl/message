@@ -4,7 +4,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Yay, see you on the 15th!";
+  question.innerHTML = "Yay, see you on the December 15th!";
 });
 
 noBtn.addEventListener("mouseover", () => {
